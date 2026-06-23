@@ -1,4 +1,4 @@
-"""
+
 PYTHONE OPERATOR'S
 a+b ,  a,b   Operand  , + => Operator
 
@@ -64,7 +64,7 @@ print(b is not a)
 6. Logical Operator
 ( and , or , not)
 
-"""
+
 
 print( 1>6 or 10>7)
 print( 1>6 and 10>7)
