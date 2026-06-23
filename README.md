@@ -1,6 +1,6 @@
 # 🐍 Python Learning Journey
 
-Welcome to my Python Learning Journey repository!
+Welcome to my Python Learning Journey repository. 
 
 This repository contains all the Python concepts and exercises I have learned during my Data Analytics Journey. 
 
